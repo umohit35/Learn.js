@@ -11,5 +11,5 @@ accountCity = "Bangalore";
 
 console.log(accountID);
 //prints only one variable.
-console.table({accountID, accountEmail, accountPassword, accountCity});
+console.table({ accountID, accountEmail, accountPassword, accountCity });
 // prints multiple variables.
